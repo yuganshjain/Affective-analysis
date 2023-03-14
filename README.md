@@ -1,2 +1,3 @@
 # Affective Analysis of Project Gutenberg’s corpus
 The report delineating this entire research is available (https://github.com/yuganshjain/Affective-analysis/blob/master/SRIP_2020_R01_final_report.pdf).
+I explored various sub-topics in the field of Affective Analysis, such as the circumplex model of affect (Russell, 1980), using word-emotion association lexicons such as Warriner (2013) for emotion recognition, and affect representation in 3D valence, arousal, and dominance (VAD) space. My contributions were to build and compare JeMaS, Doc2Vec, and BERT models for predicting the VAD space of text in Gutenberg and Emobank corpora.
